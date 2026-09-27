@@ -1,0 +1,21 @@
+
+DATA PIPELINE SQL QUERY OUTPUT SUMMARY
+======================================
+
+Query 1 - SELECT + WHERE
+Rows returned: 40
+
+Query 2 - ORDER BY + LIMIT
+Rows returned: 10
+
+Query 3 - DISTINCT
+Rows returned: 29
+
+Query 4 - BETWEEN
+Rows returned: 34
+
+Query 5 - JOIN
+Rows returned: 10
+
+Query 6 - IN + JOIN
+Rows returned: 14
