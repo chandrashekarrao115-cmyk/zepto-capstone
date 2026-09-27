@@ -1,0 +1,2 @@
+best_n_estimators,best_max_depth,best_max_features,best_cv_f1,oob_score
+200,5,sqrt,0.7408312771917277,0.8213783403656821
