@@ -1,0 +1,188 @@
+[
+  {
+    "SQL_JOIN":[
+      {
+        "book_id":5,
+        "title":"Sapiens: A Brief History of Humankind",
+        "price_gbp":54.23,
+        "price_inr":5721.265,
+        "rating":5,
+        "in_stock":1,
+        "category_name":"History"
+      },
+      {
+        "book_id":14,
+        "title":"Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+        "price_gbp":52.29,
+        "price_inr":5516.595,
+        "rating":5,
+        "in_stock":1,
+        "category_name":"Sequential Art"
+      },
+      {
+        "book_id":47,
+        "title":"We Love You, Charlie Freeman",
+        "price_gbp":50.27,
+        "price_inr":5303.485,
+        "rating":5,
+        "in_stock":1,
+        "category_name":"Fiction"
+      },
+      {
+        "book_id":43,
+        "title":"Private Paris (Private #10)",
+        "price_gbp":47.61,
+        "price_inr":5022.855,
+        "rating":5,
+        "in_stock":1,
+        "category_name":"Fiction"
+      },
+      {
+        "book_id":29,
+        "title":"Worlds Elsewhere: Journeys Around Shakespeare\u00e2\u0080\u0099s Globe",
+        "price_gbp":40.3,
+        "price_inr":4251.65,
+        "rating":5,
+        "in_stock":1,
+        "category_name":"Nonfiction"
+      },
+      {
+        "book_id":99,
+        "title":"Join",
+        "price_gbp":35.67,
+        "price_inr":3763.185,
+        "rating":5,
+        "in_stock":1,
+        "category_name":"Science Fiction"
+      },
+      {
+        "book_id":15,
+        "title":"Rip it Up and Start Again",
+        "price_gbp":35.02,
+        "price_inr":3694.61,
+        "rating":5,
+        "in_stock":1,
+        "category_name":"Music"
+      },
+      {
+        "book_id":25,
+        "title":"Black Dust",
+        "price_gbp":34.53,
+        "price_inr":3642.915,
+        "rating":5,
+        "in_stock":1,
+        "category_name":"Romance"
+      },
+      {
+        "book_id":73,
+        "title":"The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution",
+        "price_gbp":32.24,
+        "price_inr":3401.32,
+        "rating":5,
+        "in_stock":1,
+        "category_name":"Spirituality"
+      },
+      {
+        "book_id":24,
+        "title":"Chase Me (Paris Nights #2)",
+        "price_gbp":25.27,
+        "price_inr":2665.985,
+        "rating":5,
+        "in_stock":1,
+        "category_name":"Romance"
+      }
+    ],
+    "PANDAS_MERGE":[
+      {
+        "book_id":5,
+        "title":"Sapiens: A Brief History of Humankind",
+        "price_gbp":54.23,
+        "price_inr":5721.265,
+        "rating":5,
+        "in_stock":1,
+        "category_name":"History"
+      },
+      {
+        "book_id":14,
+        "title":"Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+        "price_gbp":52.29,
+        "price_inr":5516.595,
+        "rating":5,
+        "in_stock":1,
+        "category_name":"Sequential Art"
+      },
+      {
+        "book_id":47,
+        "title":"We Love You, Charlie Freeman",
+        "price_gbp":50.27,
+        "price_inr":5303.485,
+        "rating":5,
+        "in_stock":1,
+        "category_name":"Fiction"
+      },
+      {
+        "book_id":43,
+        "title":"Private Paris (Private #10)",
+        "price_gbp":47.61,
+        "price_inr":5022.855,
+        "rating":5,
+        "in_stock":1,
+        "category_name":"Fiction"
+      },
+      {
+        "book_id":29,
+        "title":"Worlds Elsewhere: Journeys Around Shakespeare\u00e2\u0080\u0099s Globe",
+        "price_gbp":40.3,
+        "price_inr":4251.65,
+        "rating":5,
+        "in_stock":1,
+        "category_name":"Nonfiction"
+      },
+      {
+        "book_id":99,
+        "title":"Join",
+        "price_gbp":35.67,
+        "price_inr":3763.185,
+        "rating":5,
+        "in_stock":1,
+        "category_name":"Science Fiction"
+      },
+      {
+        "book_id":15,
+        "title":"Rip it Up and Start Again",
+        "price_gbp":35.02,
+        "price_inr":3694.61,
+        "rating":5,
+        "in_stock":1,
+        "category_name":"Music"
+      },
+      {
+        "book_id":25,
+        "title":"Black Dust",
+        "price_gbp":34.53,
+        "price_inr":3642.915,
+        "rating":5,
+        "in_stock":1,
+        "category_name":"Romance"
+      },
+      {
+        "book_id":73,
+        "title":"The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution",
+        "price_gbp":32.24,
+        "price_inr":3401.32,
+        "rating":5,
+        "in_stock":1,
+        "category_name":"Spirituality"
+      },
+      {
+        "book_id":24,
+        "title":"Chase Me (Paris Nights #2)",
+        "price_gbp":25.27,
+        "price_inr":2665.985,
+        "rating":5,
+        "in_stock":1,
+        "category_name":"Romance"
+      }
+    ]
+  }
+]
