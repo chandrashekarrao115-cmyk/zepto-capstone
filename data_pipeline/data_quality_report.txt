@@ -1,0 +1,24 @@
+
+# Data Quality Report
+
+Total books: 100
+Total categories: 29
+
+Missing values:
+title        0
+price_gbp    0
+price_inr    0
+rating       0
+in_stock     0
+category     0
+
+Data types:
+title         object
+price_gbp    float64
+price_inr    float64
+rating         int64
+in_stock        bool
+category      object
+
+Currency conversion:
+1 GBP = 105.50 INR
