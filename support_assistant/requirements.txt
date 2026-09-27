@@ -1,0 +1,7 @@
+sentence-transformers==5.7.0
+chromadb==1.5.9
+langgraph
+langchain-core
+fastapi==0.141.1
+uvicorn
+pydantic==2.13.5
